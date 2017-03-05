@@ -9,21 +9,21 @@ try:
 	pixels=im.load()
 	if choice==1:
 		while (count<n):
-	    	for x in range(1,20):
-		    	pixels[X,Y]=(255,255,255)
-		    	X=X+1   
-	    	X=100
-	    	Y=Y+1
-	    	count=count+1
+			for x in range(1,20):
+				pixels[X,Y]=(255,255,255)
+				X=X+1   
+			X=100
+			Y=Y+1
+			count=count+1
 		im.show()
 	elif choice==2:
 		while (count<n):
-	    	for x in range(1,20):
-		    	pixels[X,Y]=(255,255,255)
-		    	Y=Y+1    
-	    	Y=200
-	    	X=X+1
-	    	count=count+1
+			for x in range(1,20):
+				pixels[X,Y]=(255,255,255)
+				Y=Y+1	
+			Y=200
+			X=X+1
+			count=count+1
 		im.show()
 	else:
 		print"Enter valid choice"
