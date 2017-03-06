@@ -1,0 +1,3 @@
+1)[S] [5 March 2017]  Using Image Module in Python, And its raw pixel modifying capabilities produce a script that draws a line across the Image, Either Horizotal or Vertical based upon the user's choice of a given Width.
+
+2) [6 March 2017] Again, Using the same Module in Python, Produce a script that Draws Repeated Diagonals Across a Canvas of given space between Consecutive Diagonals (For Eg: http://debbiehodge.com/home/wp-content/uploads/2009/12/Celtic-Knot-3.jpg).
