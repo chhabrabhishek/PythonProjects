@@ -1,0 +1,1 @@
+Using Image Module in Python, And its raw pixel modifying capabilities produce a script that draws a line across the Image, Either Horizotal or Vertical based upon the user's choice of a given Width.
