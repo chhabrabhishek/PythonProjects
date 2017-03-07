@@ -5,11 +5,12 @@ try:
 	Y=0
 	count=0
 	n=int(raw_input("Width : "))
+	m=int(n/2)
 	choice=int(raw_input("Enter 1 for horizontal and 2 for vertical"))
 	im=Image.new('RGB',(512,512),"Black")
 	pixels=im.load()
 	if choice==1:
-		Y=250
+		Y=(256-m)
 		while (count<n):
 			for x in range(1,513):
 				pixels[X,Y]=(255,255,255)
@@ -19,7 +20,7 @@ try:
 			count=count+1
 		im.show()
 	elif choice==2:
-		X=250
+		X=(256-m)
 		while (count<n):
 			for x in range(1,513):
 				pixels[X,Y]=(255,255,255)
