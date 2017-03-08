@@ -1,4 +1,3 @@
-# PythonProjects
-
-##Accepted Solutions
-1, 2
+#Accepted Solutions
+- 1
+- 2
