@@ -5,4 +5,4 @@
 3)[S] [9 March 2017] Using the same Module, And raw pixel editing capabilities generate the following pattern, With the Color Variations, Not necessarily the same color, Please be sure that multiple colors are used, Refer the Image at https://images.blogthings.com/thecolorfulpatterntest/pattern-1.png
 
 4) [17 March 2017 8:10 PM] [QQ: 1 Hour] You'll have to calculate the difference between two Images of same Size in Percentage. You Can test the Program by using Sample Images at https://ibb.co/chUUTv and https://ibb.co/cKkQ1F.
-Hint: Compare those two Images Pixel by Pixel
+Hint: Compare those two Images Pixel by Pixel.
